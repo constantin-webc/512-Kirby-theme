@@ -1,4 +1,4 @@
-# @512 - Multipurpose theme
+# @512 - Kirby Multipurpose theme
 
 Demo:<https://www.themes.constantinweb.com/512/>
 
