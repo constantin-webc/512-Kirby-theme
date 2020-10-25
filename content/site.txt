@@ -29,7 +29,7 @@ Contacttext:
 **HELLO**
 
 <div class="kt">
-<a href="https://github.com/constantinjoly/512">512 on Github</a> - <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=LF8XQ2LV5LCH6&amp;source=url" rel="nofollow"> Make a donation</a>
+<a href="https://github.com/constantinjoly/512-Kirby-theme">512 on Github</a> - <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=LF8XQ2LV5LCH6&amp;source=url" rel="nofollow"> Make a donation</a>
 </div>
 
 <br>
