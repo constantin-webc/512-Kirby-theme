@@ -1,0 +1,71 @@
+Title: Duo Reges Iam poterit
+
+----
+
+Headline: At enim hic etiam dolore
+
+----
+
+Tags: Photography, Painting
+
+----
+
+Date: 2020-04-05
+
+----
+
+Headlineintro: Hoc est vim afferre, Torquate, sensibus, extorquere ex animis cognitiones verborum, quibus inbuti sumus. Huius ego nunc auctoritatem sequens idem faciam.
+
+----
+
+Textcontent:
+
+- 
+  sectiontitle: Sed venio
+  size: 'false'
+  posttype: Text
+  text: '[{"attrs":[],"content":"Aut, Pylades cum sis, dices te esse Orestem, ut moriare pro amico? Beatus autem esse in maximarum rerum timore nemo potest. Duo enim genera quae erant, fecit tria. Primum in nostrane potestate est, quid meminerimus?","id":"_u23pfmgyk","type":"paragraph"},{"attrs":[],"content":"Saepe ab Aristotele, a Theophrasto mirabiliter est laudata per se ipsa rerum scientia; Nullum inveniri verbum potest quod magis idem declaret Latine, quod Graece, quam declarat voluptas. Duarum enim vitarum nobis erunt instituta capienda.","id":"_pnlcb2hy8","type":"paragraph"},{"attrs":[],"content":"<strong>Itaque his sapiens semper vacabit. Quae rursus dum sibi evelli ex ordine nolunt, horridiores evadunt, asperiores, duriores et oratione et moribus.<\/strong>","id":"_0d8vkytgb","type":"paragraph"}]'
+  medias: [ ]
+  mediainlb: 'false'
+  mediatext: ""
+  itemlink:
+    type: page
+    value: projects
+  lineposttype: null
+  linelink: null
+- 
+  sectiontitle: Quis est enim, in quo sit cupiditas
+  size: 'false'
+  posttype: Medias
+  text: ""
+  medias:
+    - >
+      sharon-mccutcheon-tzzwc_xscly-unsplash.jpg
+  mediainlb: 'true'
+  mediatext: ""
+  itemlink: null
+  lineposttype: null
+  linelink: null
+
+----
+
+Illu:
+
+- >
+  sharon-mccutcheon-tzzwc_xscly-unsplash.jpg
+
+----
+
+Illupresentation: false
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Metaimage: 

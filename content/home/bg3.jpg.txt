@@ -1,0 +1,9 @@
+Imgwidth: false
+
+----
+
+Imgheight: false
+
+----
+
+Imglogo: false

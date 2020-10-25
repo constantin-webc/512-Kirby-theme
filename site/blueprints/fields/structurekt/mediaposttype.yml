@@ -1,0 +1,9 @@
+label: 
+  fr: Image(s)
+  en: Image(s)
+type: files
+uploads:
+  template: gallery
+when:
+  posttype: Medias
+width: 2/3

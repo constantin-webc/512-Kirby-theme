@@ -1,0 +1,53 @@
+Title: Lorem ipsum dolor
+
+----
+
+Headline: Lorem ipsum dolor sit amet
+
+----
+
+Tags: Thought for a day
+
+----
+
+Date: 2020-04-03
+
+----
+
+Headlineintro: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Itaque mihi non satis videmini considerare quod iter sit naturae quaeque progressio. Sed in rebus apertissimis nimium longi sumus.
+
+----
+
+Textcontent:
+
+- 
+  sectiontitle: Deinde prima illa
+  size: 'false'
+  posttype: Text
+  text: '[{"attrs":[],"content":"Duo Reges: constructio interrete. Cur post Tarentum ad Archytam? Quid igitur, inquit, eos responsuros putas? Scisse enim te quis coarguere possit? Non quam nostram quidem, inquit Pomponius iocans;","id":"_fCy1lS87S","type":"paragraph"},{"attrs":[],"content":"Collatio igitur ista","id":"_vwwvmx9ek","type":"h3"},{"attrs":[],"content":"Collatio igitur ista te nihil iuvat. Sapiens autem semper beatus est et est aliquando in dolore; Quod autem principium officii quaerunt, melius quam Pyrrho; Nam illud quidem adduci vix possum, ut ea, quae senserit ille, tibi non vera videantur.","id":"_KFEF9MQXY","type":"paragraph"},{"attrs":[],"content":"Deinde prima illa","id":"_gtq5hrzw8","type":"h3"},{"attrs":[],"content":"Deinde prima illa, quae in congressu solemus: Quid tu, inquit, huc? At hoc in eo M. Quare attende, quaeso. Aliter enim explicari, quod quaeritur, non potest. Mihi, inquam, qui te id ipsum rogavi? Suam denique cuique naturam esse ad vivendum ducem.","id":"_1qwJ3Mb4r","type":"paragraph"}]'
+  medias: [ ]
+  mediainlb: 'false'
+  mediatext: ""
+  itemlink: null
+  lineposttype: null
+  linelink: null
+
+----
+
+Illu: 
+
+----
+
+Illupresentation: false
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Metaimage: 

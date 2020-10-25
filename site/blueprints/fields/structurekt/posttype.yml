@@ -1,0 +1,9 @@
+label: 
+  en: Type
+  fr: Type
+type: radio
+columns: 2
+empty: false
+options:
+  - Text
+  - Medias

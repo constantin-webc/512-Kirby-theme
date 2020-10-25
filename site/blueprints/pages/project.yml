@@ -1,0 +1,118 @@
+title: Project
+
+tabs:
+  content:
+    label: Contenu
+    icon: text
+    columns:
+      left:
+        width: 2/3 
+        fields:
+          headline:
+            label: 
+              en: Headline
+              fr: Gros titre
+            type: text
+          headlineintro:
+            label: Introduction 
+            type: textarea
+            buttons:
+              - italic
+              - bold
+              - '|'
+              - email
+              - link
+
+          textcontent:
+            label: Sections
+            type: structure
+            columns: 
+              sectiontitle:
+                width: 1/5
+              size:
+                 width: 1/5
+              postType:
+                 width: 1/5
+              medias:
+                 width: 1/5
+              mediaInLb:
+                 width: 1/5 
+            fields:
+              sectiontitle: fields/structurekt/sectiontitle
+              size: fields/structurekt/size 
+
+              postType: fields/structurekt/posttype 
+              
+              text: fields/structurekt/editortxtposttype             
+              
+              medias: fields/structurekt/mediaposttype
+              
+              mediaInLb: fields/structurekt/mediainlbposttype
+
+              mediatext: fields/structurekt/editormedia
+
+      right:
+        width: 1/3 
+        sections:
+          images:
+            type: files
+            template: gallery
+      
+  # illustration
+  homesettings:
+    label: 
+      en: Home settings
+      fr: Paramètres accueil 
+    icon: image
+    columns:
+      left:
+        width: 2/3
+        fields:
+          illusintro:
+            label:  
+              en: Intro text
+              fr: Intro texte
+            help: 
+              en: Text to show as presentation when project is opened in lightbox - Text shoud not exceed 200 characters
+              fr: Texte à afficher lorsque le projet est ouvert dans la lightbox - le texte ne devrait pas dépasser + de 200 caractères
+            type:  textarea
+            buttons:
+              - italic
+              - bold
+              - '|'
+              - email
+              - link
+          projectIllu:
+            label: 
+              en: First illustration
+              fr: Première illustration
+            type: files
+            query: page.images
+            multiple: false
+            required: true
+            help: 
+              en: Required, this image will be shown in the projects grid
+              fr: Obligatoire - Cette image sera affichée sur la grille de projets 
+            width: 1/2    
+
+          projectIlluBack:
+            label: 
+              en: Second illustration
+              fr: Seconde illustration
+            type: files
+            query: page.files
+            multiple: false
+            help: 
+              en: Not required, This image is shown when project is opened in lightbox - If this field is empty, Illusstration First will be used.
+              fr: Non obligatoire - Cette image est affichée lorsque le projet est ouvert dans la lightbox - si ce champs n'est pas rempli, l'illustration Front sera utilisée par defaut.
+            width: 1/2
+
+      right:
+        width: 1/3 
+        sections:
+          images:
+            type: files
+            template: gallery
+
+  # seo tab
+  seo: tabs/seo

@@ -1,0 +1,145 @@
+title: 
+  en: Projects
+  fr: Projets
+
+options:
+  delete: false
+  duplicate: false
+
+tabs:
+
+  projects:
+    label: 
+      en: Projects
+      fr: Projets
+    icon: layers
+    columns:
+      left:
+        width: 2/3
+        sections:
+
+          listed:
+            type: pages
+            status: listed
+            headline:
+              en: Listed 
+              fr: Actifs
+            layout: cards
+            info: "{{ page.position }}"
+            template: project
+            image:
+              query: page.projectIllu.toFile
+              ratio: 1/1
+              cover: true
+      right:
+        width: 1/3
+        sections:
+          unlisted:
+            type: pages
+            status: unlisted
+            headline: 
+              en: Unlisted
+              fr: Non listés
+            info: "{{ page.position }}"
+            template: project
+          drafts:
+            type: pages
+            status: draft
+            headline: 
+              en: Drafts
+              fr: Brouillons
+            info: "{{ page.position }}"
+            template: project
+          
+ 
+
+  content:
+    label:
+      en: Content 
+      fr: Contenu
+    icon: text
+    fields:
+      pageintroheadline:
+        label: Introduction
+        type: headline
+      headline:
+        label: 
+          en: Title
+          fr: Titre 
+        type: text
+      headlineintro:
+        label: Introduction
+        type: textarea
+        buttons:
+          - italic
+          - bold
+          - email
+
+      line:
+        type: line
+
+      pagefootermessage:
+        label: 
+          en: Projects footer message
+          fr: Message sous les projets
+        type: headline
+      pagefootergridtitle:
+        label:
+          en: Title 
+          fr: Titre 
+        type: text
+      pagefootergrid:
+        label: 
+          en: text
+          fr: Texte 
+        type: textarea
+        buttons:
+          - italic
+          - bold
+          - email
+
+  # illustration
+  homesetting:
+    label: 
+      en: Home settings
+      fr: Paramètres accueil 
+    icon: image
+    columns:
+      left:
+        width: 2/3
+        fields:
+          homeintrotitle: 
+            label: 
+              en: Title
+              fr: Titre
+            type: text
+          homeintro: 
+            label: 
+              en: text
+              fr: Texte
+            type: textarea
+            buttons:
+              - italic
+              - bold
+              - email
+          homebuttontitle:
+            label:
+              en: Custom text for button link to projects page
+              fr: Texte personnalisé pour le lien vers la page de projets
+            type: text
+      right:
+        width: 1/3
+        fields:
+          projectsOnHome:
+            label:
+              en: Home page 
+              fr: Page d'accueil
+            type: pages
+            options: query
+            query: page.children.listed
+            help: 
+              en: Select projects to show on home page
+              fr: Projets à afficher sur la page d'accueil
+
+  # seo tab
+  seo: tabs/seo

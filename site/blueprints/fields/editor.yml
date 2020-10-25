@@ -1,0 +1,15 @@
+label: 
+  en: Text
+  fr: Texte
+type: editor
+allowed: 
+  - h2
+  - h3
+  - paragraph
+  - hr
+  - blockquote
+  - ul
+  - ol
+  - code
+pretty: false
+size: large

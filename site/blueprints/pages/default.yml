@@ -1,0 +1,57 @@
+title: Default
+
+tabs:
+  content: 
+    label: Contenu
+    icon: text
+    columns:
+      left:
+        width: 2/3 
+        fields:
+          headline: fields/headline 
+          headlineintro: fields/intro 
+          textcontent: 
+            label: Sections
+            type: structure
+            columns: 
+              sectiontitle:
+                width: 1/5
+              size:
+                 width: 1/5
+              postType:
+                 width: 1/5
+              medias:
+                 width: 1/5
+              mediaInLb:
+                 width: 1/5 
+            fields:
+              sectiontitle: fields/structurekt/sectiontitle 
+              size: fields/structurekt/size 
+              postType: fields/structurekt/posttype
+            
+              lineposttype:
+                type: line
+            
+              text: fields/structurekt/editortxtposttype
+              medias: fields/structurekt/mediaposttype
+              mediaInLb: fields/structurekt/mediainlbposttype
+              mediatext: fields/structurekt/editormedia
+            
+              linelink:
+                type: line 
+                
+              itemlink: fields/linkfieldmaster
+
+
+      right:
+        width: 1/3 
+        sections:
+          images:
+            type: files
+            template: gallery 
+
+
+
+
+  # seo tab
+  seo: tabs/seo

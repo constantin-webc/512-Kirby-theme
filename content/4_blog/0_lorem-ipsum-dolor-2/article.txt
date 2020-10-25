@@ -1,0 +1,73 @@
+Title: Lorem ipsum dolor 2
+
+----
+
+Headline: 
+
+----
+
+Tags: Thought for a day
+
+----
+
+Date: 2020-04-01
+
+----
+
+Headlineintro: 
+
+----
+
+Textcontent:
+
+- 
+  sectiontitle: Atque haec ita iustitiae propria sunt
+  size: 'false'
+  posttype: Text
+  text: '[{"attrs":[],"content":"Atque haec ita iustitiae propria sunt, ut sint virtutum reliquarum communia. Hic nihil fuit, quod quaereremus. Tum ille: Tu autem cum ipse tantum librorum habeas, quos hic tandem requiris? Nec enim, dum metuit, iustus est, et certe, si metuere destiterit, non erit; Sed haec quidem liberius ab eo dicuntur et saepius. Nos cum te, M.","id":"_kOV5WarEF","type":"paragraph"},{"attrs":[],"content":"","id":"_d99ndhtlm","type":"hr"},{"attrs":[],"content":"Diodorus, eius auditor, adiungit ad honestatem vacuitatem doloris. Duo Reges: constructio interrete. Huius ego nunc auctoritatem sequens idem faciam. Et ego: Piso, inquam, si est quisquam, qui acute in causis videre soleat quae res agatur. Tum Piso: Quoniam igitur aliquid omnes, quid Lucius noster?","id":"_N5GgWxlsN","type":"paragraph"}]'
+  medias: [ ]
+  mediainlb: 'false'
+  mediatext: ""
+  itemlink:
+    type: url
+    value: https://google.com
+    text: Find it on Google
+    popup: true
+  lineposttype: null
+  linelink: null
+- 
+  sectiontitle: Image
+  size: 'false'
+  posttype: Medias
+  text: ""
+  medias:
+    - >
+      sharon-mccutcheon-tzzwc_xscly-unsplash-small-test.jpg
+  mediainlb: 'true'
+  mediatext: ""
+  itemlink: null
+  lineposttype: null
+  linelink: null
+
+----
+
+Illu:
+
+- >
+  sharon-mccutcheon-tzzwc_xscly-unsplash-small-test.jpg
+
+----
+
+Illupresentation: true
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Metaimage: 

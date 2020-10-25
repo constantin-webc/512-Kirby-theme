@@ -1,0 +1,185 @@
+Title: Screenshots
+
+----
+
+Headline: Panel screenshots
+
+----
+
+Headlineintro:
+
+Below are some image examples of the various panel pages. If you have any questions about the theme, please feel free to: 
+(email: constantin@fastmail.com text: contact me) or (link: https://twitter.com/cjlabfr text: @cjlabfr)
+
+----
+
+Textcontent:
+
+- 
+  sectiontitle: Site
+  size: 'true'
+  posttype: Medias
+  text: ""
+  medias:
+    - site.jpg
+  mediainlb: 'true'
+  mediatext: ""
+  itemlink: null
+  lineposttype: null
+  linelink: null
+- 
+  sectiontitle: Site identity tab
+  size: 'true'
+  posttype: Medias
+  text: ""
+  medias:
+    - site-identity.jpg
+  mediainlb: 'true'
+  mediatext: ""
+  itemlink: null
+  lineposttype: null
+  linelink: null
+- 
+  sectiontitle: Home hero
+  size: 'false'
+  posttype: Medias
+  text: ""
+  medias:
+    - home-hero.jpg
+  mediainlb: 'true'
+  mediatext: ""
+  itemlink: null
+  lineposttype: null
+  linelink: null
+- 
+  sectiontitle: Home Intro
+  size: 'false'
+  posttype: Medias
+  text: ""
+  medias:
+    - home-intro.jpg
+  mediainlb: 'true'
+  mediatext: ""
+  itemlink: null
+  lineposttype: null
+  linelink: null
+- 
+  sectiontitle: Projects
+  size: 'true'
+  posttype: Medias
+  text: ""
+  medias:
+    - projects.jpg
+  mediainlb: 'true'
+  mediatext: ""
+  itemlink: null
+  lineposttype: null
+  linelink: null
+- 
+  sectiontitle: Project home settings tab
+  size: 'true'
+  posttype: Medias
+  text: ""
+  medias:
+    - project-home-settings.jpg
+  mediainlb: 'true'
+  mediatext: ""
+  itemlink: null
+  lineposttype: null
+  linelink: null
+- 
+  sectiontitle: 'Project content '
+  size: 'false'
+  posttype: Medias
+  text: ""
+  medias:
+    - project-1.jpg
+  mediainlb: 'true'
+  mediatext: ""
+  itemlink: null
+  lineposttype: null
+  linelink: null
+- 
+  sectiontitle: Extended project content
+  size: 'false'
+  posttype: Medias
+  text: ""
+  medias:
+    - project-2.jpg
+  mediainlb: 'true'
+  mediatext: ""
+  itemlink: null
+  lineposttype: null
+  linelink: null
+- 
+  sectiontitle: Blog
+  size: 'false'
+  posttype: Medias
+  text: ""
+  medias:
+    - blog.jpg
+  mediainlb: 'true'
+  mediatext: ""
+  itemlink: null
+  lineposttype: null
+  linelink: null
+- 
+  sectiontitle: Blog home settings tab
+  size: 'false'
+  posttype: Medias
+  text: ""
+  medias:
+    - blog-home-settings.jpg
+  mediainlb: 'true'
+  mediatext: ""
+  itemlink: null
+  lineposttype: null
+  linelink: null
+- 
+  sectiontitle: Article
+  size: 'true'
+  posttype: Medias
+  text: ""
+  medias:
+    - article.jpg
+  mediainlb: 'true'
+  mediatext: ""
+  itemlink: null
+  lineposttype: null
+  linelink: null
+- 
+  sectiontitle: Services
+  size: 'false'
+  posttype: Medias
+  text: ""
+  medias:
+    - services-1.jpg
+  mediainlb: 'true'
+  mediatext: ""
+  itemlink: null
+  lineposttype: null
+  linelink: null
+- 
+  sectiontitle: Services home settings
+  size: 'false'
+  posttype: Medias
+  text: ""
+  medias:
+    - services-home-settings.jpg
+  mediainlb: 'true'
+  mediatext: ""
+  itemlink: null
+  lineposttype: null
+  linelink: null
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Metaimage: 

@@ -1,0 +1,73 @@
+Title: Phil. N
+
+----
+
+Headline: Commotionem suavem
+
+----
+
+Headlineintro: Nam e quibus locis quasi thesauris argumenta depromerentur, vestri ne suspicati quidem sunt, superiores autem artificio et via tradiderunt.
+
+----
+
+Textcontent:
+
+- 
+  sectiontitle: Nam e quibus locis quasi thesauris
+  size: 'true'
+  posttype: Medias
+  text: ""
+  medias:
+    - hector-falcon-gtsjgyvvuli-unsplash.jpg
+  mediainlb: 'true'
+  mediatext: ""
+- 
+  sectiontitle: Cur tantas regiones barbarorum
+  size: 'false'
+  posttype: Text
+  text: '[{"attrs":[],"content":"Atque ab isto capite fluere necesse est omnem rationem bonorum et malorum. Et hercule-fatendum est enim, quod sentio -mirabilis est apud illos contextus rerum. Ius autem, quod ita dici appellarique possit, id esse natura, alienumque esse a sapiente non modo iniuriam cui facere, verum etiam nocere.","id":"_9c3ud87d0","type":"paragraph"},{"attrs":[],"content":"Quarum cum una sit, qua mores conformari putantur, differo eam partem, quae quasi stirps ets huius quaestionis.","id":"_yk72mcpps","type":"blockquote"}]'
+  medias: [ ]
+  mediainlb: 'false'
+  mediatext: ""
+- 
+  sectiontitle: Media with Gif
+  size: 'false'
+  posttype: Medias
+  text: ""
+  medias:
+    - gifok.gif
+  mediainlb: 'true'
+  mediatext: ""
+
+----
+
+Illusintro: Quod est, ut dixi, habere ea, quae secundum naturam sint, vel omnia vel plurima et maxima. *Ut nemo dubitet, eorum omnia officia quo spectare*, quid sequi, quid fugere debeant? Sed ut iis bonis.
+
+----
+
+Projectillu:
+
+- >
+  hector-falcon-gtsjgyvvuli-unsplash-small.jpg
+
+----
+
+Projectilluback:
+
+- gifok.gif
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Metaimage: 
+
+----
+
+Showhome: false

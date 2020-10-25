@@ -1,0 +1,67 @@
+Title: Lorie.H
+
+----
+
+Headline: Non minor, inquit, voluptas percipitur.
+
+----
+
+Headlineintro:
+
+ic ego: Pomponius quidem, inquam, noster iocari videtur, et fortasse suo iure. Qui potest igitur habitare in beata vita summi mali metus? 
+
+*Levatio igitur vitiorum magna fit in iis, qui habent ad virtutem progressionis aliquantum.*
+
+----
+
+Textcontent:
+
+- 
+  sectiontitle: Lorem Ipsum
+  size: 'false'
+  posttype: Medias
+  text: ""
+  medias:
+    - dan-farrell-ft49qnfucq8-unsplash.jpg
+  mediainlb: 'true'
+  mediatext: '[{"attrs":[],"content":"<strong>Deinde non quaerimus<\/strong>, quid obscuretur aut intereat, quia sit admodum parvum, sed quid tale sit, ut expleat summam. Levatio igitur vitiorum magna fit in iis, <em>qui habent ad virtutem progressionis aliquantum<\/em>.","id":"_jst0jrzuu","type":"paragraph"}]'
+- 
+  sectiontitle: Lorem isum big
+  size: 'true'
+  posttype: Medias
+  text: ""
+  medias:
+    - dan-farrell-ft49qnfucq8-unsplash.jpg
+  mediainlb: 'true'
+  mediatext: ""
+
+----
+
+Illusintro: Quod est, ut dixi, habere ea, quae secundum naturam sint, vel omnia vel plurima et maxima. Ut nemo dubitet, eorum omnia officia quo spectare, quid sequi, quid fugere debeant? Sed ut iis bonis.
+
+----
+
+Projectillu:
+
+- >
+  dan-farrell-ft49qnfucq8-unsplash-small.jpg
+
+----
+
+Projectilluback: 
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Metaimage: 
+
+----
+
+Showhome: true

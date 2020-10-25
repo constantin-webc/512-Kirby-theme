@@ -1,0 +1,6 @@
+label: 
+  en: Title
+  fr: Titre
+type: text
+required: true
+width: 2/3 

@@ -1,0 +1,17 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 100 100" width="50px" height="50px" enable-background="new 0 0 100 100" xml:space="preserve">
+	<g transform="matrix(1,0,0,1,-254.407,-71.2573)">
+		
+			<path fill="#010101" fill-opacity="0" stroke="#FFFFFF" stroke-width="1.3333" stroke-opacity="0" d="    M254.6,71.3h99.8v100h-99.8V71.3z"/>
+		<ellipse fill="#FFFFFF" cx="304.4" cy="121.2" rx="49.1" ry="49.1"/>
+		<path fill="url(#grad)" stroke="#FFFFFF" stroke-width="0.5" d="M293,99.6c12.7,0,23.1,10.4,23.1,23.2    S305.8,146,293,146c-12.7,0-23.1-10.4-23.1-23.2S280.3,99.6,293,99.6z"/>
+		<path fill="#010101" stroke="#FFFFFF" stroke-width="0.5" d="M309,94.5l30.2,52.6h-60.4L309,94.5z"/>
+	</g>  
+   <defs>
+        <linearGradient id="grad" x1="100%" y1="100%">
+          <stop offset="0%" stop-color="black" stop-opacity=".5">
+            <animate attributeName="stop-color" values="gold;orange;pink;crimson;pink;orange;gold" dur="10s" repeatCount="indefinite"/>
+          </stop>          
+        </linearGradient>
+      </defs>
+  
+</svg>

@@ -1,0 +1,67 @@
+Title: Duo Reges: constructio interrete.
+
+----
+
+Headline: 
+
+----
+
+Tags: Photography
+
+----
+
+Date: 2020-04-02
+
+----
+
+Headlineintro: 
+
+----
+
+Textcontent:
+
+- 
+  sectiontitle: 'Ratio quidem vestra '
+  size: 'false'
+  posttype: Text
+  text: '[{"attrs":[],"content":"Ratio quidem vestra sic cogit. Cum salvum esse flentes sui respondissent, rogavit essentne fusi hostes. Stoici autem, quod finem bonorum in una virtute ponunt, similes sunt illorum; Isto modo ne improbos quidem, si essent boni viri. Ita similis erit ei finis boni, atque antea fuerat, neque idem tamen; Huic mori optimum esse propter desperationem sapientiae, illi propter spem vivere. Tamen aberramus a proposito, et, ne longius, prorsus, inquam, Piso, si ista mala sunt, placet. Nosti, credo, illud: Nemo pius est, qui pietatem-; Sed erat aequius Triarium aliquid de dissensione nostra iudicare. Et hunc idem dico, inquieta sed ad virtutes et ad vitia nihil interesse.","id":"_4w62sq6r6","type":"paragraph"},{"attrs":[],"content":"","id":"_vwpd766b7","type":"hr"},{"attrs":[],"content":"In quibus doctissimi illi veteres inesse quiddam caeleste et divinum putaverunt. Praeclarae mortes sunt imperatoriae; Si alia sentit, inquam, alia loquitur, numquam intellegam quid sentiat; Ergo hoc quidem apparet, nos ad agendum esse natos. Qualem igitur hominem natura inchoavit? Licet hic rursus ea commemores, quae optimis verbis ab Epicuro de laude amicitiae dicta sunt. Facete M. Sed quid attinet de rebus tam apertis plura requirere? Tum mihi Piso: Quid ergo? Pauca mutat vel plura sane;","id":"_gibx9mqmj","type":"paragraph"}]'
+  medias: [ ]
+  mediainlb: 'false'
+  mediatext: ""
+  itemlink: null
+  lineposttype: null
+  linelink: null
+- 
+  sectiontitle: 'Tum mihi Piso:'
+  size: 'true'
+  posttype: Medias
+  text: ""
+  medias:
+    - blog6.jpg
+  mediainlb: 'false'
+  mediatext: ""
+  itemlink: null
+  lineposttype: null
+  linelink: null
+
+----
+
+Illu:
+
+- blog6.jpg
+
+----
+
+Illupresentation: false
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Metaimage: 

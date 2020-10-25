@@ -1,0 +1,122 @@
+title: Services
+
+options:
+  delete: false
+  duplicate: false
+
+tabs:
+  content: 
+    label: Contenu
+    icon: text
+    columns:
+      left:
+        width: 2/3 
+        fields:
+          headline: fields/headline  
+    
+          headlineintro: fields/intro
+    
+          textcontent:
+            label: Sections 
+            type: structure
+            columns: 
+             titlesection:
+                width: 1/5
+             size:
+                width: 1/5
+             postType:
+                width: 1/5
+             onhome:
+                width: 1/5
+             mediaInLb:
+                width: 1/5
+    
+            fields:
+    
+              onhome: 
+                label: 
+                  en: On home?
+                  fr: Accueil?
+                type: toggle
+
+
+    
+              titlesection: fields/structurekt/sectiontitle 
+    
+              size: fields/structurekt/size
+
+              # Unfortunatly, editor won't work here even with pretty to false :(
+              # onhomecontent: 
+              #   label: 
+              #     en: Custom introduction
+              #     fr: Introduction personnalisée
+              #   type: editor 
+              #   pretty: false
+              #   when: 
+              #     onhome: true
+              #   help:
+              #     en: The content of this field will be displayed with formatted text. If empty, an unformatted excerpt from section content will be used.
+              #     fr: Le contenu de ce champs sera affiché avec du texte formaté sur la page d'accueil. S'il reste vide, un extrait non formaté   du contenu de la section sera utilisé.
+
+              onhomecontent: 
+                label: 
+                  en: Custom introduction
+                  fr: Introduction personnalisée
+                type: textarea 
+                buttons: 
+                  - bold
+                  - italic
+                  - '|'
+                  - link
+                  - email
+                when: 
+                  onhome: true
+                help:
+                  en: The content of this field will be displayed with formatted text. If empty, an unformatted excerpt from section content will be used.
+                  fr: Le contenu de ce champs sera affiché avec du texte formaté sur la page d'accueil. S'il reste vide, un extrait non formaté du contenu de la section sera utilisé.
+    
+              postType: fields/structurekt/posttype
+    
+              lineposttype:
+                type: line
+    
+              text: fields/structurekt/editortxtposttype              
+              medias: fields/structurekt/mediaposttype    
+              mediaInLb: fields/structurekt/mediainlbposttype    
+              mediatext: fields/structurekt/editormedia    
+              linelink:
+                type: line     
+              itemlink: fields/linkfieldmaster
+
+      right:
+        width: 1/3 
+        sections:
+          images:
+            type: files
+            template: gallery
+             
+      
+  # homesettings
+  homesettings:
+    label: 
+      en: Home settings
+      fr: Paramètres accueil 
+    icon: settings
+    fields:
+      homeheadline:
+        label: 
+          en: Headline
+          fr: Titre long
+        type: text
+        width: 1/2
+      homelinktitle:
+        label: 
+          en: Button title
+          fr: Titre du Bouton
+        type: text
+        width: 1/2
+
+      homeintro: fields/intro
+
+  # seo tab
+  seo: tabs/seo

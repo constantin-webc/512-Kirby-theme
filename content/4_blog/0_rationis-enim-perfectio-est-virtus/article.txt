@@ -1,0 +1,57 @@
+Title: Rationis enim
+
+----
+
+Headline: Rationis enim perfectio est virtus
+
+----
+
+Tags: Painting
+
+----
+
+Date: 2020-04-06
+
+----
+
+Headlineintro: Itaque contra est, ac dicitis; Ratio ista, quam defendis, praecepta, quae didicisti, quae probas, funditus evertunt amicitiam.
+
+----
+
+Textcontent:
+
+- 
+  sectiontitle: Sin autem voluptatem
+  size: 'false'
+  posttype: Medias
+  text: ""
+  medias:
+    - blog3.jpg
+    - blog5.jpg
+  mediainlb: 'true'
+  mediatext: ""
+  itemlink: null
+  lineposttype: null
+  linelink: null
+
+----
+
+Illu:
+
+- blog3.jpg
+
+----
+
+Illupresentation: false
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Metaimage: 

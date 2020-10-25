@@ -1,0 +1,125 @@
+title: Home
+
+options:
+  status: false
+  duplicate: false
+
+tabs:
+
+  # Hero tab
+  hero:
+    label: 
+      en: Hero
+      fr: Hero
+    icon: image
+    columns:
+      left:
+        width: 2/3
+        sections:
+          herocontent:
+            type: fields
+            fields:
+              bigtitre:
+                label: 
+                  en: Title
+                  fr: Titre
+                type: text
+                width: 2/3
+              colortitle:
+                label: 
+                  en: Black color title?
+                  fr: Couleur du titre en noir?
+                type: toggle                
+                Help: 
+                  en: Default is white
+                  fr: Blanc par defaut
+                width: 1/3
+              poster:
+                label: 
+                  en: Poster
+                  fr: Poster
+                type: files
+                multiple: false   
+              posterfilter:
+                label: 
+                  en: White filter?
+                  fr: Flitre blanc?
+                type: toggle
+                Help: 
+                  en: Default is black
+                  fr: Noir par defaut
+
+              posteropacity:
+                label: 
+                  en: Opacity
+                  fr: Opacité
+                type: range
+                max: 10
+              posterblur:
+                label: 
+                  en: Blur effect
+                  fr: Floutage
+                type: range
+                max: 50
+      right:
+        width: 1/3
+        sections:
+          files:
+            type: files
+            headline: images 
+
+
+
+  # Intro tab
+  intro:
+    label: 
+      en: Intro
+      fr: Intro
+    icon: text
+    sections:
+      content:
+        type: fields
+        fields:
+          hideIntro:
+            label:
+              en: Hide Intro section?
+              fr: Cacher la section Introduction?
+            type: toggle
+          introTitle:
+            label: 
+              en: Intro Title
+              fr: Titre de l'introduction
+            type: text
+          introText: 
+            label: 
+              en: content
+              fr: Contenu
+            type: textarea
+            buttons:
+              - bold
+              - italic
+              - '|'
+              - link
+              - email
+          related:
+            label: 
+              en: Related Pages
+              fr: page connexe
+            type: pages
+            multiple: false
+            width: 1/2
+          relatedtitle:
+            label: 
+              en: Custom link text
+              fr: Texte du lien
+            type: text
+            width: 1/2
+            help: 
+              en: If this field is empty, related page title will be used
+              fr: si ce lien est vide, le titre de la page cible sera utilisé
+                  
+ 
+  # seo tab
+  seo: tabs/seo
+
+

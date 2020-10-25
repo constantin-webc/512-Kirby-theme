@@ -1,0 +1,73 @@
+Title: @512 Theme
+
+----
+
+Homebtnmenu: false
+
+----
+
+Homebtnmenutitle: Home
+
+----
+
+Contactbtnmenu: true
+
+----
+
+Contactbtnmenutitle: Contact
+
+----
+
+Sitelogo:
+
+- logo.svg
+
+----
+
+Contacttext:
+
+**HELLO**
+
+<div class="kt">
+<a href="https://github.com/constantinjoly/512">512 on Github</a> - <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=LF8XQ2LV5LCH6&amp;source=url" rel="nofollow"> Make a donation</a>
+</div>
+
+<br>
+
+If you have any questions about the theme, please don't hesitate to contact me. 
+
+----
+
+Email: mail@mail.com
+
+----
+
+Tel: +33524987562
+
+----
+
+Address: 1 Boulevard de la Croisette - 06400 Cannes
+
+----
+
+Copyright: @512 Theme 2020
+
+----
+
+Socials:
+
+- 
+  socialname: Facebook
+  socialurl: https://facebook.com
+  logo:
+    - facebook.svg
+- 
+  socialname: Instagram
+  socialurl: https://instagram.com
+  logo:
+    - instagram.svg
+- 
+  socialname: Twitter
+  socialurl: https://twitter.com
+  logo:
+    - twitter.svg

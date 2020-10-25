@@ -1,0 +1,7 @@
+label: 
+  fr: Lightbox?
+  en: Lightbox?
+type: toggle     
+when:
+  posttype: Medias
+width: 1/3

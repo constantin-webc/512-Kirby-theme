@@ -1,0 +1,68 @@
+Title: Max. Imum
+
+----
+
+Headline: Lorem ipsum dolor sit amet
+
+----
+
+Headlineintro:
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tum ille timide vel potius verecunde: Facio, inquit. Itaque multi, cum in potestate essent hostium aut tyrannorum, multi in custodia, multi in exillo dolorem suum doctrinae studiis levaverunt.
+
+Contact me by (email: mail@mail.com text: Email)
+
+----
+
+Textcontent:
+
+- 
+  sectiontitle: Quid enim ab antiquis ex eo genere
+  size: 'false'
+  posttype: Medias
+  text: ""
+  medias:
+    - paul-postema-adobg-epms0-unsplash.jpg
+    - illustration-all.jpg
+  mediainlb: 'false'
+  mediatext: ""
+- 
+  sectiontitle: Paul Postema
+  size: 'true'
+  posttype: Medias
+  text: ""
+  medias:
+    - paul-postema-adobg-epms0-unsplash.jpg
+  mediainlb: 'false'
+  mediatext: '[{"attrs":[],"content":"Lorem Ipsum:","id":"_dzpcctxll","type":"h3"},{"attrs":[],"content":"Praeclare, inquit, facis, cum et eorum memoriam tenes, quorum uterque tibi testamento liberos suos commendavit, et puerum diligis.","id":"_7qify4e7e","type":"paragraph"}]'
+
+----
+
+Illusintro: Quod est, ut dixi, habere ea, quae secundum naturam sint, vel omnia vel plurima et maxima. Ut nemo dubitet, eorum omnia officia quo spectare, quid sequi, quid fugere debeant? Sed ut iis bonis.
+
+----
+
+Projectillu:
+
+- >
+  paul-postema-adobg-epms0-unsplash-small.jpg
+
+----
+
+Projectilluback: 
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Metaimage: 
+
+----
+
+Showhome: 

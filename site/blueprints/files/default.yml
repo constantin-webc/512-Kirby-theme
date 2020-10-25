@@ -1,0 +1,6 @@
+title: Default File
+
+fields:
+  imgtitle:
+    label: Titre
+    type: text

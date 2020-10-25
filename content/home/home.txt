@@ -1,0 +1,69 @@
+Title: Home
+
+----
+
+Bigtitre: Hi, I'm Jazz Connor. Welcome to my world...
+
+----
+
+Colortitle: false
+
+----
+
+Poster:
+
+- >
+  pierrick-van-troost-yxxvjecrtqa-unsplash-small-test-2.jpg
+
+----
+
+Posterfilter: false
+
+----
+
+Posteropacity: 10
+
+----
+
+Posterblur: 0
+
+----
+
+Hideintro: false
+
+----
+
+Introtitle: About Theme @512 for Kirby CMS
+
+----
+
+Introtext: **@512** is a light theme, responsive, fast and easy to use, with an administration interface that will allow you to manage the content of your site with ease (thanks to Kirby ...). If you have any questions about the theme, please don't hesitate to (email: constantin@fastmail.com text: contact me) or (link: https://twitter.com/cjlabfr text: @cjlabfr)
+
+----
+
+Related:
+
+- about
+
+----
+
+Relatedtitle: All about the theme here
+
+----
+
+Seotitle: @512 Theme
+
+----
+
+Seodescription: 
+
+----
+
+Metaimage:
+
+- >
+  pierrick-van-troost-yxxvjecrtqa-unsplash-small-social.jpg
+
+----
+
+Introtext2: 

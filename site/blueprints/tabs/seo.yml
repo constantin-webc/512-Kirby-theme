@@ -1,0 +1,18 @@
+label: SEO
+icon: globe
+preset: page
+pages: false
+fields:
+  seoTitle:
+    label: 
+      en: Meta Title
+      fr: Meta Titre
+    type: text
+  seoDescription:
+    label: Meta Description
+    type: text
+  metaimage:
+    label: Meta Image
+    type:  files
+    query: page.images 
+    multiple: false

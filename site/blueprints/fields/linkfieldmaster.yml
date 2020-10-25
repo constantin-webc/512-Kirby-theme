@@ -1,0 +1,11 @@
+label:
+  en: Link
+  fr: Lien
+type: link
+options:
+    - page
+    - url
+    - file
+files:
+  query: page.files
+  text: '{{ file.id }}'

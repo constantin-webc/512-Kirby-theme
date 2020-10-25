@@ -1,0 +1,13 @@
+Imgtitle: 
+
+----
+
+Alt: 
+
+----
+
+Imgcaption: Some caption text
+
+----
+
+Template: gallery

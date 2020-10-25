@@ -1,0 +1,62 @@
+Title: David.K
+
+----
+
+Headline: Peccata autem partim
+
+----
+
+Headlineintro: Aliis esse maiora, illud dubium, ad id, quod summum bonum dicitis, ecquaenam possit fieri accessio. Peccata autem partim esse tolerabilia, partim nullo modo, propterea quod alia peccata plures, alia pauciores quasi numeros officii praeterirent.
+
+----
+
+Textcontent:
+
+- 
+  sectiontitle: Est autem situm in nobis ut et adversa
+  size: 'true'
+  posttype: Medias
+  text: ""
+  medias:
+    - natalia-barros-f-scph15zrs-unsplash.jpg
+  mediainlb: 'true'
+  mediatext: '[{"attrs":[],"content":"eperiam multos, vel innumerabilis potius, non tam curiosos nec tam molestos, quam vos estis, quibus, quid velim, facile persuadeam. Quid autem habent admirationis, cum prope accesseris?","id":"_zkl1vzjcz","type":"paragraph"},{"attrs":[],"content":"Loremipsum","id":"_tds8ppc52","type":"h3"},{"attrs":[],"content":"Quid ad utilitatem tantae pecuniae? Hoc autem tempore, etsi multa in omni parte Athenarum sunt in ipsis locis indicia summorum virorum, tamen ego illa moveor exhedra. Id et fieri posse et saepe esse factum et ad voluptates percipiendas maxime pertinere.","id":"_z2nzocamv","type":"paragraph"}]'
+- 
+  sectiontitle: Blockquote
+  size: 'false'
+  posttype: Text
+  text: '[{"attrs":[],"content":"Quid ad utilitatem tantae pecuniae? Hoc autem tempore, etsi multa in omni parte Athenarum sunt in ipsis locis indicia summorum virorum, tamen ego illa moveor exhedra\u2026","id":"_4fduclwrk","type":"blockquote"}]'
+  medias: [ ]
+  mediainlb: 'false'
+  mediatext: ""
+
+----
+
+Illusintro: Quod est, ut dixi, habere ea, quae secundum naturam sint, vel omnia vel plurima et maxima. Ut nemo dubitet, eorum omnia officia quo spectare, quid sequi, quid fugere debeant? Sed ut iis bonis.
+
+----
+
+Projectillu:
+
+- >
+  natalia-barros-f-scph15zrs-unsplash-small.jpg
+
+----
+
+Projectilluback: 
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Metaimage: 
+
+----
+
+Showhome: true

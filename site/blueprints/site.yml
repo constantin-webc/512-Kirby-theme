@@ -1,0 +1,148 @@
+title: Site
+
+tabs:
+  # content tab 
+  content:
+    label: 
+      en: Pages
+      fr: Pages
+    icon: sort
+    sections:  
+      published:
+        headline:
+          en: Published 
+          fr: Publiées
+        type: pages
+        status: listed
+      unlisted:
+        headline:
+          en: Unlisted
+          fr: Non listées
+        type: pages
+        status: unlisted
+      drafts:
+        headline:
+          en: Drafts
+          fr: Brouillons
+        type: pages
+        templates:
+          - default
+        status: draft
+    
+  
+  parama:
+    label: 
+      en: Settings
+      fr: Paramètres
+    icon: settings
+    sections:  
+      param:
+        headline:
+          en: Published 
+          fr: Publiées
+        type: fields
+        fields:
+          homeBtnMenu:
+            label: 
+              en: Add a "Home" button in the menu ?
+              fr: Ajouter le bouton "Accueil" dans le menu ?
+            type: toggle
+          homeBtnMenuTitle:
+            label: 
+              en: Button title
+              fr: Titre du bouton
+            type: text
+            when:
+              homeBtnMenu: true
+          contactBtnMenu:
+            label: 
+              en: Add a "Contact" button in the menu ?
+              fr: Ajouter le bouton "Contact" dans le menu ?
+            type: toggle
+            width: 1/3
+          contactBtnMenuTitle:
+            label: 
+              en: Button title
+              fr: Titre du bouton
+            type: text
+            width: 2/3
+            when:
+              contactBtnMenu: true
+          logoheight:
+            label: 
+              en: Define logo height
+              fr: Définir la hauteur du logo
+            type: number
+            help:
+              en: The navigation bar is in a fixed position at the top of the screen. if your logo has a fairly large height, this will increase the height of the entire navigation bar and may end up occupying too much space on the site content. To remedy this, you can set the height of your logo here, which will add the correspondant margin to the content of the site.
+              fr: La bar de navigation est en position fixe en haut de l'écran. si votre logo a une hauteur assez importante, cela va augmenter la hauteur de toute la bar de navigation et peu finir par occuper trop d'espace sur le contenu du site. Pour y remédier, vous pouvez mentionner ici la hauteur de votre logo, qui ajoutera une marge sur le contenu du site.
+            
+
+
+        
+  # Details tab
+  identity:
+    preset: page
+    pages: false
+    label:
+      en: Identity  
+      fr: Identité
+    icon: user
+    fields:
+      sitelogo:
+        label: Logo
+        type: files
+        multiple: false 
+        help: 
+          en: Will appear in Navigation and footer. If no logo is selected, Site title will be used instead.
+          fr: Apparaît dans le menu et le footer. Si aucun logo n'est selectionné, le titre du site sera utilisé.
+
+      contactText:
+       label: Presentation
+       type: textarea
+       buttons:
+        - bold
+        - italic
+        - link
+        - email
+      email:
+       label: email
+       type: email
+       width: 1/2  
+       
+      tel:
+       label: tel
+       icon: phone
+       type: tel
+       width: 1/2
+       
+      address:
+       label:
+         en: Address 
+         fr: adresse
+       icon: map
+       type: text
+       width: 2/3
+       
+      copyright:
+       label: copyright
+       icon: globe
+       type: text
+       width: 1/3
+       
+      socials:
+        label: Socials
+        type: structure
+        fields:
+          socialname:
+            label: Name
+            type: text
+          socialurl:
+            label: Link
+            type: url
+          logo:
+            label: Logo
+            type: files
+            multiple: false 
+
+  

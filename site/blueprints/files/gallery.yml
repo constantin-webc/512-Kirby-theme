@@ -1,0 +1,25 @@
+title: Project
+
+fields:
+  imgtitle:
+    label:
+      en: Title 
+      fr: Titre
+    type: text
+    width: 1/2
+  alt:
+    label: 
+      en: Alt Text
+      fr: Texte alternatif
+    type: text
+    width: 1/2
+  imgcaption:
+    label: 
+      en: image text
+      fr: Texte sous l'image
+    type: textarea
+    buttons:
+      - italic
+      - bold
+      - email
+      - link

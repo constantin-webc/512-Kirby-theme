@@ -1,0 +1,126 @@
+title: Blog
+
+options: 
+  delete: false
+  duplicate: false
+
+tabs:
+
+  articles:
+    label: Articles
+    icon: layers
+    columns:
+      left:
+        width: 2/3
+        sections:
+          listed:
+            type: pages
+            headline:
+              en: Published articles
+              fr: Articles publiés
+            status: listed
+            layout: list
+            info: "{{ page.date.toDate('%d.%m.%Y') }}"
+            template: article
+            sortBy: date desc
+            image:
+              query: page.Illu.toFile
+              ratio: 1/1
+              cover: true
+      right:
+        width: 1/3
+        sections:         
+          param:
+            type: fields
+            fields:
+             articlesPerPage:
+               label: 
+                en: N° of articles per page
+                fr: Nbr d'articles par page
+               type: number
+          unlisted:
+            type: pages
+            headline:
+              en: Unlisted 
+              fr: Non listés
+            status: unlisted
+            info: "{{ page.date.toDate('%d.%m.%Y') }}"
+            template: article
+            sortBy: date desc
+          drafts:
+            type: pages
+            headline:
+              en: Add article 
+              fr: Ajouter un nouvel article
+            status: draft
+            info: "{{ page.date.toDate('%d.%m.%Y') }}"
+            template: article
+            sortBy: date desc
+
+ 
+
+  content:
+    label:
+      en: Content 
+      fr: Contenu
+    icon: text
+    fields:      
+      headline:
+        label:
+          en: Long title 
+          fr: Titre long
+        type: text
+      headlineintro:
+        label: 
+          fr: Texte
+          en: text 
+        type: textarea
+        buttons:
+          - italic
+          - bold
+          - email
+
+  # homesettings
+  homesettings:
+    label: 
+      en: Home settings
+      fr: Paramètres accueil 
+    icon: settings
+    pages: false
+    fields:
+      homeintrotitle:
+        label:
+          en: Title
+          fr: Titre
+        type: text
+        width: 2/3
+        help: 
+          en: If this field is empty, title from Content Tab will be used
+          fr: Si ce champs est vide, le titre de l'onglet Contenu sera utilisé
+      articlesOnHome:
+        label: 
+          en: N° of articles to show
+          fr: Nbr d'articles à afficher
+        type: number
+        width: 1/3
+
+      homeintro:
+        label: 
+          en: Text
+          fr: texte
+        type: textarea
+        help: 
+          en: If this field is empty, text from Content Tab will be used - 
+          fr: Si ce champs est vide, le texte de l'onglet Contenu sera utilisé
+        buttons:
+          - italic
+          - bold
+          - email
+      homebuttontitle:
+        label:
+          en: Custom text for button link to blog page
+          fr: Texte personnalisé pour le lien vers le blog
+        type: text
+
+  # seo tab
+  seo: tabs/seo

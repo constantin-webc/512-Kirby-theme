@@ -1,0 +1,45 @@
+Title: Blog
+
+----
+
+Articlesperpage: 2
+
+----
+
+headline: Our Blog, dolor sit amet consectetur adipisicing elit.
+
+----
+
+headlineintro: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+
+----
+
+Blogonhome: true
+
+----
+
+Articlesonhome: 5
+
+----
+
+Homeintrotitle: Cumque ipsa virtus efficiat ita beatam vitam..
+
+----
+
+Homeintro: ..Semovenda est igitur voluptas, non solum ut recta sequamini, sed etiam ut loqui deceat frugaliter.
+
+----
+
+Homebuttontitle: All Blog posts!
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Metaimage: 

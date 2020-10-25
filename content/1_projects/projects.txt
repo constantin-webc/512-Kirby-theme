@@ -1,0 +1,71 @@
+Title: Projects
+
+----
+
+Headline: Some of my latest projects
+
+----
+
+Headlineintro: Reiciendis perspiciatis ipsum impedit, odit numquam tempore mollitia minima. Culpa, quo quis molestias accusantium voluptas illo perferendis delectus ea, recusandae itaque dicta.
+
+----
+
+Pagefootergridtitle: thank you for visiting my portfolio!
+
+----
+
+Pagefootergrid:
+
+Restinguet citius, si ardentem acceperit. Ita fit illa conclusio non solum vera, sed ita perspicua, ut dialectici ne rationem quidem reddi putent oportere:
+
+(email: mail@mail.com text: mail@mail.com) / (twitter: @512Theme)
+
+----
+
+Homeintrotitle: In quibus doctissimi illi veteres inesse quiddam ab eorum curatione..
+
+----
+
+Homeintro: Itaque non discedit ab eorum curatione, quibus praeposita vitam omnem debet gubernare, ut mirari satis istorum inconstantiam non possim. Est autem officium, quod.
+
+----
+
+Homebuttontitle: See all projects..
+
+----
+
+Projectsonhome:
+
+- projects/loriane-b
+- projects/phil-n
+- projects/domi-l
+- projects/nat-c
+- projects/lorie-h
+- projects/david-k
+- projects/max-imum
+- projects/jane-d
+- projects/mel-ody
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Metaimage: 
+
+----
+
+Projectonhome: team/loriane-b, team/phil-n
+
+----
+
+Listtype: 
+
+----
+
+Intro: 

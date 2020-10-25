@@ -1,0 +1,58 @@
+Title: Nat.C
+
+----
+
+Headline: Nat.C
+
+----
+
+Headlineintro:
+
+Non quaero, quid dicat, sed quid convenienter possit rationi et sententiae suae dicere. Tecum optime, deinde etiam cum mediocri amico. Vobis autem, quibus nihil est aliud propositum nisi rectum atque honestum, unde officii, unde agendi principlum nascatur non reperietis.
+
+**Vobis autem, quibus nihil est aliud propositum nisi..**
+
+----
+
+Textcontent:
+
+- 
+  sectiontitle: Lorem Ipsum
+  size: 'true'
+  posttype: Medias
+  text: ""
+  medias:
+    - antony-le-feur-0jfqrr3bso-unsplash.jpg
+  mediainlb: 'true'
+  mediatext: ""
+
+----
+
+Illusintro: Quod est, ut dixi, habere ea, quae secundum naturam sint, vel omnia vel plurima et maxima. Ut nemo dubitet, eorum omnia officia quo spectare, quid sequi, quid fugere debeant? (link: https://google.com text: Sed ut iis bonis).
+
+----
+
+Projectillu:
+
+- >
+  antony-le-feur-0jfqrr3bso-unsplash-small.jpg
+
+----
+
+Projectilluback: 
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Metaimage: 
+
+----
+
+Showhome: true

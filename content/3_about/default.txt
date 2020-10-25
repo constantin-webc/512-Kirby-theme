@@ -1,0 +1,275 @@
+Title: About
+
+----
+
+Headline: About 512 Theme
+
+----
+
+Headlineintro:
+
+**512 theme** will adapt perfectly to any type of project. The design in general is very minimalist, which will allow you to highlight your content and build a superb site! Portfolio, Personal projects, Meeting, Restaurant.. 
+
+(link: screenshots text: Panel screenshots)
+
+----
+
+Textcontent:
+
+- 
+  sectiontitle: Projects
+  size: 'false'
+  posttype: Text
+  text: '[{"attrs":[],"content":"<strong>Projects<\/strong> template is the heart of the theme. the template offers many options to highlight your projects. Add unlimited projects and select those you want to show on the home page. The theme was built in order to be able to adapt to quite any kind of project.","id":"_b83kolrxt","type":"paragraph"},{"attrs":[],"content":"The illustration images in the projects grid can be jpg, png or svg. It is possible to use 2 different images (clickable thumbnail and illustration in the lightbox) or even a video in the lightbox.","id":"_sayaqmuls","type":"paragraph"}]'
+  medias: [ ]
+  mediainlb: 'false'
+  mediatext: ""
+  itemlink: null
+  media: [ ]
+  lineposttype: null
+  linelink: null
+- 
+  sectiontitle: Services
+  size: 'false'
+  posttype: Text
+  text: '[{"attrs":[],"content":"<em>Displaying Services on home page is optional.<\/em>","id":"_bprcsc91a","type":"paragraph"},{"attrs":[],"content":"The <strong>Services<\/strong> template allows you to create Sections\/Blocks of content with text, medias etc... You can define the size of these blocks to half or 100% width. If you want to display services on home page, just select the desired blocks. You will be able to choose between a full formatted text or an excerpt to show. An anchor link will be created for all sections displayed on home page..","id":"_0a4lvidfw","type":"paragraph"},{"attrs":[],"content":"<em><u>Only one page from this template can be created.<\/u><\/em>","id":"_dndbtmekt","type":"paragraph"}]'
+  medias: [ ]
+  mediainlb: 'false'
+  mediatext: ""
+  itemlink: null
+  media: [ ]
+  lineposttype: null
+  linelink: null
+- 
+  sectiontitle: Default page
+  size: 'false'
+  posttype: Text
+  text: '[{"attrs":[],"content":"This page is built with the <strong>Default<\/strong> template. The Default template is designed in the same way as the Services one. The difference is that it does not allow to share on the home page its different Sections\/Blocks. The other difference is that it allows you to create as many pages as you want.","id":"_drmj35u9k","type":"paragraph"}]'
+  medias: [ ]
+  mediainlb: 'false'
+  mediatext: ""
+  itemlink: null
+  media: [ ]
+  lineposttype: null
+  linelink: null
+- 
+  sectiontitle: The Blog
+  size: 'false'
+  posttype: Text
+  text: '[{"attrs":[],"content":"<em>Displaying the Blog on the home page is optional.<\/em>","id":"_qfzguakcd","type":"paragraph"},{"attrs":[],"content":"If you choose this possibility, you will be able to define yourself the number of articles to be displayed. On the blog page itself, you can also choose the number of articles to display per page.","id":"_6opoi53l8","type":"paragraph"},{"attrs":[],"content":"In order to originalize the presentation a little, there are several nice options that you can see in the <strong><a href=\"blog\">current presentation<\/a><\/strong>.","id":"_fkuzb42ua","type":"paragraph"}]'
+  medias: [ ]
+  mediainlb: 'false'
+  mediatext: ""
+  itemlink: null
+  media: [ ]
+  lineposttype: null
+  linelink: null
+- 
+  sectiontitle: Home hero
+  size: 'false'
+  posttype: Text
+  text: '[{"attrs":[],"content":"The site header on the home page allows you to use the <strong>background image of your choice<\/strong>. There are also <strong>several customization options<\/strong> on this section from the panel:","id":"_8d3kgob66","type":"paragraph"},{"attrs":[],"content":"Blurring of the image as well as the possibility of adding a layer allowing to darken the image more or less.","id":"_j85jcv537","type":"paragraph"},{"attrs":[],"content":"If you want to use an image with shades of white, you can use a white filter rather than black and switch title color to black.","id":"_lap4672oy","type":"paragraph"}]'
+  medias: [ ]
+  mediainlb: 'false'
+  mediatext: ""
+  itemlink: null
+  media: [ ]
+  lineposttype: null
+  linelink: null
+- 
+  sectiontitle: Site footer
+  size: 'false'
+  posttype: Text
+  text: '[{"attrs":[],"content":"The content of the footer is also customizable. Choose the elements to display such as your email, address, telephone, etc. These elements are entered in the panel from the <u>site identity tab<\/u>. You can add as many social networks as necessary (Only 3 icons currently available). You can find others icons with the same design on <a title=\"iconfinder.com\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"https:\/\/www.iconfinder.com\/iconsets\/social-media-rounded-corners\">iconfinder.com<\/a>.","id":"_gyz8lf8dn","type":"paragraph"},{"attrs":[],"content":"If icons are not used, a custom title will be displayed.","id":"_8an3ygve4","type":"paragraph"}]'
+  medias: [ ]
+  mediainlb: 'false'
+  mediatext: ""
+  itemlink: null
+  lineposttype: null
+  linelink: null
+- 
+  sectiontitle: Introduction home page
+  size: 'false'
+  posttype: Text
+  text: '[{"attrs":[],"content":"The introduction section on the home page. <br>You can choose to display it or not. You can also choose to link it to any page on the site.","id":"_s6n44gchb","type":"paragraph"}]'
+  medias: [ ]
+  mediainlb: 'false'
+  mediatext: ""
+  itemlink: null
+  lineposttype: null
+  linelink: null
+- 
+  sectiontitle: Seo
+  size: 'false'
+  posttype: Text
+  text: '[{"attrs":[],"content":"All pages on the site have a meta title, meta description and meta image field in a dedicated tab. If they are not used, excerpts from the current page will be used in the meta tags, and the first image, if there is one, will be used in meta image.","id":"_zrihke030","type":"paragraph"}]'
+  medias: [ ]
+  mediainlb: 'false'
+  mediatext: ""
+  itemlink: null
+  lineposttype: null
+  linelink: null
+- 
+  sectiontitle: Website Logo
+  size: 'false'
+  posttype: Medias
+  text: ""
+  medias:
+    - logo.svg
+  mediainlb: 'true'
+  mediatext: '[{"attrs":[],"content":"you can customize the identity of the site with your own logo. For aesthetic reasons, its height will be limited, but you can use any image type. If you prefer not to use a logo, then the site title will be displayed. The logo (Or the title of the site) is displayed in the menu and in the footer.","id":"_r2t78plh4","type":"paragraph"}]'
+  itemlink: null
+  lineposttype: null
+  linelink: null
+- 
+  sectiontitle: Typography
+  size: 'false'
+  posttype: Text
+  text: '[{"attrs":[],"content":"This is an H2","id":"_3ckxbxtxo","type":"h2"},{"attrs":[],"content":"This an H3","id":"_tnwifj116","type":"h3"},{"attrs":[],"content":"","id":"_d0zvlk904","type":"hr"},{"attrs":[],"content":"<strong>Quid, si reviviscant Platonis illi<\/strong> et deinceps qui eorum auditores fuerunt, et tecum ita loquantur? Quid est igitur, cur ita semper deum appellet <u>Epicurus beatum et aeternum<\/u>? In quibus doctissimi illi veteres inesse quiddam caeleste et divinum putaverunt. Inscite autem medicinae et gubernationis ultimum cum ultimo <del>sapientiae comparatur<\/del>. <br><em>Sed quamvis comis in amicis tuendis fuerit, tamen, si haec vera sunt-nihil enim affirmo-, non satis acutus fuit.<\/em>","id":"_rkvmnz3si","type":"paragraph"},{"attrs":[],"content":"In quibus doctissimi illi veteres inesse quiddam caeleste et divinum putaverunt.","id":"_o7d3dgphi","type":"blockquote"}]'
+  medias: [ ]
+  mediainlb: 'false'
+  mediatext: ""
+  itemlink: null
+  lineposttype: null
+  linelink: null
+- 
+  sectiontitle: Plugins
+  size: 'false'
+  posttype: Text
+  text: |
+    [{"attrs":[],"content":"512 Theme uses <u>Bastian Allgeier<\/u> <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https:\/\/github.com\/getkirby\/editor\">Editor<\/a> plugin as the new type of WYSIWYG. This editor is definitively super useful !!","id":"_xpfzgef87","type":"paragraph"},{"attrs":[],"content":"512 Theme also uses <u>Thomas G\u00fcnther's<\/u> <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https:\/\/github.com\/medienbaecker\/kirby-autoresize\">Autoresize<\/a> and <u>Oblik Studio<\/u> <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https:\/\/github.com\/OblikStudio\/kirby-link-field\">Kirby link Field<\/a> plugin's.","id":"_91cd6ot29","type":"paragraph"},{"attrs":[],"content":"","id":"_nz403zdm8","type":"paragraph"}]
+  medias: [ ]
+  mediainlb: 'false'
+  mediatext: ""
+  itemlink: null
+  lineposttype: null
+  linelink: null
+- 
+  sectiontitle: Panel
+  size: 'false'
+  posttype: Text
+  text: '[{"attrs":[],"content":"The panel is fully translated into <u>French and English<\/u>.","id":"_z2tilu0yk","type":"paragraph"}]'
+  medias: [ ]
+  mediainlb: 'false'
+  mediatext: ""
+  itemlink: null
+  lineposttype: null
+  linelink: null
+- 
+  sectiontitle: About Kirby
+  size: 'true'
+  posttype: Text
+  text: |
+    [{"attrs":[],"content":"","id":"_rk7l3ypb9","type":"hr"},{"attrs":[],"content":"","id":"_rt4r7p9cf","type":"paragraph"},{"attrs":[],"content":"Trial","id":"_sjbebeoct","type":"h3"},{"attrs":[],"content":"You can try Kirby on your local machine or on a test server as long as you need to make sure it is the right tool for your next project.","id":"_publmKGgg","type":"paragraph"},{"attrs":[],"content":"Buy a license","id":"_w2que60v7","type":"h3"},{"attrs":[],"content":"You can purchase your Kirby license at <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https:\/\/getkirby.com\/buy\">https:\/\/getkirby.com\/buy<\/a>, A Kirby license is valid for a single domain. You can find Kirby's license agreement here: <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https:\/\/getkirby.com\/license\">https:\/\/getkirby.com\/license<\/a>","id":"_5tb7072xb","type":"paragraph"},{"attrs":[],"content":"The Panel","id":"_e6givy0ic","type":"h3"},{"attrs":[],"content":"You can find the login for Kirby's admin interface at yourdomain.com\/panel. You will be guided through the signup process for your first user, when you visit the panel for the first time.","id":"_htbd904x3","type":"paragraph"},{"attrs":[],"content":"Installation","id":"_z5g4mcrwa","type":"h3"},{"attrs":[],"content":"Kirby does not require a database, which makes it very easy to install. Just copy Kirby's files to your server and visit the URL for your website in the browser.","id":"_swm0qmqza","type":"paragraph"},{"attrs":[],"content":"Download or install <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https:\/\/github.com\/getkirby\/kirby\">latest Kirby version<\/a> into you server's web root (If downloaded, please rename kirby-master folder to kirby after having unzipped it)","id":"_zdddxhynd","type":"ol"},{"attrs":[],"content":"Extract <u>@512 Theme <\/u>contents of the ZIP file into your server's web root witch should looks like this:","id":"_848qawnqo","type":"ol"},{"attrs":[],"content":"<u>assets<\/u> - <u>content<\/u> - <u>kirby<\/u> - <u>media<\/u> - <u>site<\/u> - <u>.htaccess<\/u> - <u>index.php<\/u>","id":"_9qff9ierc","type":"ol"},{"attrs":[],"content":"Visit your new Kirby site in your browser at yourdomain.com","id":"_rxdwqbvuy","type":"ol"},{"attrs":[],"content":"Visit the Panel at yourdomain.com\/panel","id":"_hiifye55h","type":"ol"},{"attrs":[],"content":"Requirements","id":"_96lpq37xt","type":"h3"},{"attrs":[],"content":"Kirby runs on PHP 7.1+, Apache or Nginx.","id":"_ib724d6g1","type":"paragraph"}]
+  medias: [ ]
+  mediainlb: 'false'
+  mediatext: ""
+  itemlink: null
+  lineposttype: null
+  linelink: null
+- 
+  sectiontitle: Credits
+  size: 'true'
+  posttype: Text
+  text: '[{"attrs":[],"content":"","id":"_ceyy6hq48","type":"hr"},{"attrs":[],"content":"Illustrations","id":"_i1uyz5lip","type":"h3"},{"attrs":[],"content":"All images are from <a title=\"unsplash.com\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"https:\/\/unsplash.com\/\">Unsplash<\/a>","id":"_jy47ljud5","type":"paragraph"}]'
+  medias: [ ]
+  mediainlb: 'false'
+  mediatext: ""
+  itemlink: null
+  lineposttype: null
+  linelink: null
+- 
+  sectiontitle: Archive
+  size: 'false'
+  posttype: Text
+  text: '[{"attrs":[],"content":"Nosti, credo, illud: Nemo pius est, qui pietatem-; Animum autem reliquis rebus ita perfecit, ut corpus;","id":"_630fp44l0","type":"paragraph"}]'
+  medias: [ ]
+  mediainlb: 'false'
+  mediatext: ""
+  itemlink:
+    type: file
+    value: about/archive.zip
+    text: Archive button
+    popup: true
+  lineposttype: null
+  linelink: null
+- 
+  sectiontitle: Link
+  size: 'false'
+  posttype: Text
+  text: '[{"attrs":[],"content":"Nosti, credo, illud: Nemo pius est, qui pietatem-; Animum autem reliquis rebus ita perfecit, ut corpus;","id":"_kwfnf9mr7","type":"paragraph"}]'
+  medias: [ ]
+  mediainlb: 'false'
+  mediatext: ""
+  itemlink:
+    type: url
+    value: https://google.com
+    text: Page or Url Button
+  lineposttype: null
+  linelink: null
+- 
+  sectiontitle: Document
+  size: 'false'
+  posttype: Text
+  text: '[{"attrs":[],"content":"A mene tu? Istam voluptatem perpetuam quis potest praestare sapienti? Quamquam id quidem","id":"_u407hw3ku","type":"paragraph"}]'
+  medias: [ ]
+  mediainlb: 'false'
+  mediatext: ""
+  itemlink:
+    type: file
+    value: about/pdf.pdf
+    text: Document button
+  lineposttype: null
+  linelink: null
+- 
+  sectiontitle: Image
+  size: 'false'
+  posttype: Text
+  text: '[{"attrs":[],"content":"A mene tu? Istam voluptatem perpetuam quis potest praestare sapienti? Quamquam id quidem","id":"_16gr351ya","type":"paragraph"}]'
+  medias: [ ]
+  mediainlb: 'false'
+  mediatext: ""
+  itemlink:
+    type: file
+    value: about/logo.svg
+    text: Image lightbox button
+  lineposttype: null
+  linelink: null
+- 
+  sectiontitle: Video
+  size: 'false'
+  posttype: Text
+  text: '[{"attrs":[],"content":"A mene tu? Istam voluptatem perpetuam quis potest praestare sapienti? Quamquam id quidem","id":"_24k0ungkj","type":"paragraph"}]'
+  medias: [ ]
+  mediainlb: 'false'
+  mediatext: ""
+  itemlink:
+    type: file
+    value: about/video.mp4
+  lineposttype: null
+  linelink: null
+- 
+  sectiontitle: Code
+  size: 'false'
+  posttype: Text
+  text: '[{"attrs":{"language":"text"},"content":"Some code A mene tu? Istam voluptatem perpetuam quis potest praestare sapienti? Quamquam id quidem","id":"_r1q17knm3","type":"code"}]'
+  medias: [ ]
+  mediainlb: 'false'
+  mediatext: ""
+  itemlink:
+    type: file
+    value: about/style.css
+  lineposttype: null
+  linelink: null
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Metaimage: 
