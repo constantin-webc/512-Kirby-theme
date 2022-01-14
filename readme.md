@@ -1,6 +1,6 @@
 # @512 - Kirby Multipurpose theme
 
-Demo:<https://dev.webc.fr/512/>
+Demo:<https://www.dev.webc.fr/512/>
 
 @512 is a Theme for the CMS Kirby
 
